@@ -1,18 +1,92 @@
-# 💫 About Me:
-I am a Computer Science undergraduate (2022–2026) passionate about building reliable and efficient software solutions. I have hands-on experience with the MERN stack and enjoy developing secure, scalable web applications using authentication, role-based access control, and RESTful APIs.  <br><br>🔭 Currently working on real-world full-stack projects while strengthening my problem-solving and DSA skills.  <br>👯 Open to collaborating on web development and open-source projects.  <br>🤝 Seeking guidance in advanced DSA concepts and backend optimization techniques.  <br>🌱 Actively learning scalable backend design and industry-standard development practices.  <br>💬 Feel free to ask me about MERN stack, Java, DSA, and core CS subjects such as OS and DBMS.  <br>⚡ Fun fact: I like turning practical problems into clean, functional applications.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushil-dwivedi-020026278/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwivedisushil690@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SushilDwivedi2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SushilDwivedi2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SushilDwivedi2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">Hi 👋, I'm Sushil Kumar Dwivedi</h1>
+<h3 align="center">Software Engineer | MERN Stack Developer | CS Undergraduate</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SushilDwivedi2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE (2022–2026) | CGPA: **8.07**
+- 💻 Passionate about **Full-Stack Development & DSA**
+- 🌱 Currently working with **MERN Stack**
+- 🏆 **President – Coding Club**
+- 📫 Email: **dwivedisushil690@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+### Languages
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+
+---
+
+## 🚀 Projects
+### 🏥 Doctor Appointment System (MERN)
+- Role-based system for **Doctors & Patients**
+- JWT Authentication, Slot Management, Dashboards
+- 🔗 https://github.com/SushilDwivedi2005/CSI_Project
+
+### 📝 Notes App (MERN)
+- Secure notes app with **JWT auth**
+- Full CRUD, Protected Routes
+- 🔗 https://github.com/SushilDwivedi2005/CSI_Assignment5
+
+---
+
+## 💼 Internship
+**Celebal Technologies – Node.js Intern**
+- API development & full-stack exposure
+- Worked on real-world projects & team collaboration
+
+---
+
+## 📜 Certifications
+- AWS Cloud Fundamentals
+- MySQL (Basic) – HackerRank
+- Java (Basic) – HackerRank
+- Problem Solving (Basic) – HackerRank
+
+---
+
+## 🏅 Positions of Responsibility
+- **President – Coding Club**
+- **Secretary – English Club**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SushilDwivedi2005&show_icons=true&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilDwivedi2005&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilDwivedi2005&layout=compact&theme=react" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/sushil-dwivedi
+- 🔗 GitHub: https://github.com/SushilDwivedi2005
+
+---
+
+⭐ *“Consistent learning + real projects = growth”*
