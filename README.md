@@ -50,7 +50,7 @@ I am a Computer Science undergraduate (2022–2026) passionate about building re
 
 ## 🌐 Connect With Me
 - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushil-dwivedi-020026278/)
-- 🔗 (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwivedisushil690@gmail.com)
+- 🔗 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwivedisushil690@gmail.com)
 ---
 
 ⭐ *“Consistent learning + real projects = growth”*
